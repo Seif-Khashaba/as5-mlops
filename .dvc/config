@@ -1,0 +1,7 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/Seif-Khashaba/as5-mlops.dvc
+    auth = basic
+    user = Seif-Khashaba
+    password = 872005f174afdb454648158566a1d804ae59e97f
